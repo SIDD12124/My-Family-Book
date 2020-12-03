@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+
+body{
+text-align: center;
+background-image: repeating-linear-gradient(#9C2542,#BFFF00,#006989);
+background-repeat:no-repeat;
+background-position: center;
+background-size: cover;
+height:1000px;
+}
+
+h1{
+    font-family: "Dancing Script", cursive;
+    font-size: 35px;
+}
+#family_member_image{
+    height: 500px;
+    width:200px;
+    background-color:transparent;
+}
+#family_member_name{
+    font-family: "Dancing Script",cursive;
+    font-size: 35px;
+}
+
+
